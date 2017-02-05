@@ -1,2 +1,4 @@
 # hello-world
-My first GitHub project Hello World
+My first GitHub project is Hello World
+Editing testing 
+count<< "Hello" ;
